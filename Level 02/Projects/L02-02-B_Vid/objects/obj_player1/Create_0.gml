@@ -1,0 +1,4 @@
+/// @description 
+
+friction = .2;
+
